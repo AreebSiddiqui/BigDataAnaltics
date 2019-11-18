@@ -1,0 +1,1 @@
+This is Areeb Siddiqui currently working as a Lead IoT Instructor at Axiom Pakistan which is the headqaurter of Presidential Initiative of Artificial Intelligence and Cloud Computing PIAIC I am learning embbeded systems in more detail and working on stm32f303 Discovery Board previously I have worked on Raspberry Pi Learning Google Flutter for building UI's  
